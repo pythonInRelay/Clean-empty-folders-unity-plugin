@@ -1,0 +1,1 @@
+# Clean-empty-folders-unity-plugin
